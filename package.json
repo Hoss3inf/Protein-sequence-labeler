@@ -1,0 +1,27 @@
+{
+  "name": "fasta-to-csv-converter",
+  "version": "1.0.0",
+  "description": "extract sequences out of .fasta files to csv",
+  "main": "scraper.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hoss3inf/Protein-sequence-labeler.git"
+  },
+  "keywords": [
+    "fasta",
+    "protein-sequence",
+    "csv"
+  ],
+  "author": "Hoss3inf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hoss3inf/Protein-sequence-labeler/issues"
+  },
+  "homepage": "https://github.com/Hoss3inf/Protein-sequence-labeler#readme"
+}
